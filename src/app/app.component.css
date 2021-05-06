@@ -1,0 +1,51 @@
+
+    .contenair{
+        text-align: center;
+        background-color:white;
+        margin-right:400px;
+        margin-left: 290px;
+      height: 300px;
+        width: 500px;
+        }
+  
+    #button1{
+    float: center;
+    background-color:white;
+ color: black;
+
+     width:111px;
+     height:25px;
+     margin-left: 190px;
+     position:relative;
+     bottom:99px;
+     
+    }
+    h4{
+        color: rgb(107, 104, 104);
+        margin-right: 173px;
+        margin-top: 2px;
+        margin-bottom: 2px;
+        position:relative;
+        top:30px;
+    }
+    .blac{
+        text-align: center;
+        background-color: black;
+        height:500px;
+    }
+  
+    input
+    {
+     margin: 7px;
+     margin-bottom: 5px;
+    padding: 5px;
+    padding-left: 45px;
+    background-color:rgb(209, 194, 194)
+    }
+    img{
+        width: 20px; 
+        height: 20px;
+        margin-right: 200px;
+        position: relative;
+        top: 35px;
+    }
